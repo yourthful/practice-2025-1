@@ -138,3 +138,23 @@ footer {
     color: #e15759;
 }
 
+/* изображения */
+.image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    border: 2px solid #333;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.image:hover {
+    border-color: #555;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.5);
+    transition: all 0.2s ease;
+}
+
+section {
+    margin-bottom: 50px;
+}
