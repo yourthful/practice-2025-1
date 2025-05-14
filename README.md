@@ -14,7 +14,7 @@
 
 Создание Telegram бота на языке программирования ***Python***.
 
-Вариативная часть задание находится в папке **bot**
+Вариативная часть задание находится в папке **src**
 
 https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/
 
