@@ -44,7 +44,7 @@ DEFAULT_SETTINGS = {
 }
 
 # Файл для хранения паролей
-PASSWORDS_FILE = "bot/user_password.json"
+PASSWORDS_FILE = "src/user_password.json"
 
 def load_passwords():
     if not os.path.exists(PASSWORDS_FILE):
