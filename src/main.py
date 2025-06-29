@@ -12,7 +12,7 @@ from telegram.ext import (
     filters
 )
 
-TOKEN = "8004240677:AAF8SUKjOA5cZ8Z92XGyT6N2yRppxPnS3Ns"
+TOKEN = ""
 
 # Сообщения
 START_MESSAGE = """🔐 *Генератор паролей*
